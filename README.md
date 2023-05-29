@@ -8,12 +8,12 @@ This project was made using:
 - Selenium Webdriver
 - Siteprism.
 
-The objective is to choose two products on the shopping site, put them in the cart and complete the purchase.
+The objective is to choose two products on the web store, put them in the cart and complete the purchase.
 
 Why were the technologies used in the project?
 Site Prism for creating the page objects, written in ruby.
 Capybara for actions that the real user would perform. Which is also written in ruby.
-Selenium webdriver tests web applications through the browser and interaction with page elements such as buttons, text box.
+Selenium webdriver tests web applications through the browser and interaction with page elements such as buttons and text box for example.
 
 How to execute the project?
 After cloning the repository and running it on your machine you can use the following command:
